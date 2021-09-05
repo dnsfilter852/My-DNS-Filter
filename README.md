@@ -1,8 +1,8 @@
 # My-DNS-Filter
 <table>
-  <td>
+  <tr>
     test table
-  </td>
+  </tr>
 <tr>
   <td>
     test table
