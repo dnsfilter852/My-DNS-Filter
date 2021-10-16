@@ -1,0 +1,14 @@
+!
+! Title: My DNS Filter
+! Description: updated by own need filter in Hong Kong. 
+! Homepage: https://github.com/dnsfilter852/My-DNS-Filter
+! License: CHAN Family
+! Last modified: 2021-10-16T20:38:00.005Z
+!
+! Source name: Chan Family DNS Filter
+! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/adservers.txt
+!
+! Section contains list of advertising networks
+!
+! The rules with hints are at the end of file
+!
