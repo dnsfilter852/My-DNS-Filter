@@ -6,7 +6,7 @@
 ! Last modified: 2021-10-16T20:38:00.005Z
 !
 ! Source name: Chan Family DNS Filter
-! Source: https://raw.githubusercontent.com/dnsfilter852/My-DNS-Filter/main/myfilter.txt
+! Source: https://raw.githubusercontent.com/dnsfilter852/My-DNS-Filter/main/allowlist.txt
 !
 ! Section contains list of advertising networks
 !
