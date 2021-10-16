@@ -1,0 +1,27 @@
+!
+! Title: My DNS Filter
+! Description: updated by own need filter in Hong Kong. 
+! Homepage: https://github.com/dnsfilter852/My-DNS-Filter
+! License: CHAN Family
+! Last modified: 2021-10-16T20:38:00.005Z
+!
+! Source name: Chan Family DNS Filter
+! Source: https://raw.githubusercontent.com/dnsfilter852/My-DNS-Filter/main/myfilter.txt
+!
+! Section contains list of advertising networks
+!
+! The rules with hints are at the end of file
+!
+!
+! source by lihkg title Adblock/Adguard/DNSCloak/NextDNS 係咪廢撚咗？
+!
+ir0.mobify.com
+js.kiwihk.net
+googleusercontent.com
+icloud-content.com
+torimochi.line-apps.com
+www.google-analytics.com
+www-google-analytics.l.google.com
+www.engadget.com
+raw.githubusercontent.com
+beap1.cb.g01.yahoodns.net
