@@ -79,3 +79,4 @@ tracking-1611167402.us-east-1.elb.amazonaws.com
 ||firebaselogging-pa.googleapis.com^$important
 ||firebaseinstallations.googleapis.com^$important
 ||device-provisioning.googleapis.com^$important
+||regqr.hk^$important
