@@ -74,8 +74,8 @@ tracking-1611167402.us-east-1.elb.amazonaws.com
 !
 ! 安心出行
 !
-||www.regqr.gov.hk
-||www.leavehomesafe.gov.hk
-||firebaselogging-pa.googleapis.com
-||firebaseinstallations.googleapis.com
-||device-provisioning.googleapis.com
+||www.regqr.gov.hk^$important
+||www.leavehomesafe.gov.hk^$important
+||firebaselogging-pa.googleapis.com^$important
+||firebaseinstallations.googleapis.com^$important
+||device-provisioning.googleapis.com^$important
