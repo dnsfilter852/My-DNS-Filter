@@ -71,3 +71,11 @@ rpc-tapjoy-com-lb-1378811527.us-east-1.elb.amazonaws.com
 serving-126397893.us-east-1.elb.amazonaws.com
 tapjoy-com-lb-vpc-332546193.us-east-1.elb.amazonaws.com
 tracking-1611167402.us-east-1.elb.amazonaws.com
+!
+! 安心出行
+!
+||www.regqr.gov.hk
+||www.leavehomesafe.gov.hk
+||firebaselogging-pa.googleapis.com
+||firebaseinstallations.googleapis.com
+||device-provisioning.googleapis.com
